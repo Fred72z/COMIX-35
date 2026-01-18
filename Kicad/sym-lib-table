@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name COMIX-35-rescue)(type Legacy)(uri ${KIPRJMOD}/COMIX-35-rescue.lib)(options "")(descr ""))
+)
